@@ -1,3 +1,6 @@
+![Image text](https://github.com/kansini/iconLib/blob/master/images/01.png)
+![Image text](https://github.com/kansini/iconLib/blob/master/images/02.png)
+![Image text](https://github.com/kansini/iconLib/blob/master/images/03.png)
 # iconLib
 
 ## Project setup
